@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
+  background-image: url('./cachoeira.jpg');
+  background-size: cover;
+  background-position: center;
+  display: grid;
+}
+
+main {
+  flex: 1;
+  padding: 20px;
+  display: flex;
+  flex-direction: column; /* Mudamos para "column" */
+  align-items: center;
+  justify-content: space-between;
+  text-align: center; /* Alinhamos o texto centralmente */
+}
+
+  
+
