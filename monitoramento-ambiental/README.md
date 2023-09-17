@@ -29,13 +29,13 @@ Para começar a usar este projeto, siga as instruções abaixo:
 ## Credenciais de Teste
 Para fins de teste, você pode usar as seguintes credenciais:
 
-RM: RM99209
+RM: RM99209 /
 Senha: 123456
 
-RM: RM98919
+RM: RM98919 /
 Senha: 123456
 
-RM: RM550154
+RM: RM550154 /
 Senha: 123456
 
 Desenvolvido por Alunos da Turma 1ESPG - Bernardo Rocha, Kevin Beykam, Kaylane de Lima
